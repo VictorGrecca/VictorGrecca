@@ -49,22 +49,13 @@ perfil = {
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VictorGrecca&show_icons=true&theme=default&hide_border=true&title_color=1D9E75&icon_color=1D9E75" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGrecca&layout=compact&hide_border=true&title_color=1D9E75" />
-</div>
-
----
-
 ## 📬 Contato
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-linkedin">
+  <a href="https://www.linkedin.com/in/victor-grecca/">
     <img src="https://img.shields.io/badge/LinkedIn-0C447C?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:victorgrecca@gmail.com">
     <img src="https://img.shields.io/badge/Email-444441?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
