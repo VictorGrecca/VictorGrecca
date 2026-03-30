@@ -21,6 +21,7 @@ perfil = {
     "missão": "Transformar dados em decisões e decisões em receita.",
     "método": "Análise de funil · Experimentos · Automação · Otimização de conversão",
 }
+```
 
 ## 🛠️ Stack & Ferramentas
 
