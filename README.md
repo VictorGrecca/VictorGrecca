@@ -35,6 +35,9 @@ profile = {
   <img src="https://img.shields.io/badge/BI-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Analytics-Looker_Studio-3C3489?style=for-the-badge&logo=looker&logoColor=white" />
   <img src="https://img.shields.io/badge/CRM-HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sales-Revenue-1D9E75?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
 ## 🚀 Current Focus
