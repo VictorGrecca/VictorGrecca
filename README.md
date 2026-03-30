@@ -37,11 +37,34 @@ perfil = {
   <img src="https://img.shields.io/badge/CRM-HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
 </p>
 
-📊 Revenue Analytics	🚀 Growth	🐍 Data & Automation
-Pipeline, CAC, LTV e conversão	Testes, aquisição e otimização	Python, SQL, ETL e automações
-</div>
-📈 GitHub Stats
-<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=VictorGrecca&show_icons=true&theme=default&hide_border=true&title_color=1D9E75&icon_color=1D9E75" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGrecca&layout=compact&hide_border=true&title_color=1D9E75" /> </div>
+## 🚀 Foco atual
 
-📬 Contato
-<p align="center"> <a href="https://linkedin.com/in/seu-linkedin"> <img src="https://img.shields.io/badge/LinkedIn-0C447C?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:seuemail@email.com"> <img src="https://img.shields.io/badge/Email-444441?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <div align="center"> <sub>Revenue lives where sales meets data.</sub> </div> ```
+<div align="center">
+
+| 📊 Revenue Analytics | 🚀 Growth | 🐍 Data & Automation |
+|:---:|:---:|:---:|
+| Pipeline, CAC, LTV e conversão | Testes, aquisição e otimização | Python, SQL, ETL e automações |
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VictorGrecca&show_icons=true&theme=default&hide_border=true&title_color=1D9E75&icon_color=1D9E75" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGrecca&layout=compact&hide_border=true&title_color=1D9E75" />
+</div>
+
+---
+
+## 📬 Contato
+
+<p align="center">
+  <a href="https://linkedin.com/in/seu-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0C447C?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/Email-444441?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
