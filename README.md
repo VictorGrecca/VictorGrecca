@@ -12,18 +12,18 @@
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 About Me
 
 ```python
 perfil = {
     "background": "Sales & Account Management (US + LATAM)",
-    "foco": ["Revenue Growth", "Sales Data Driven", "Python", "SQL"],
-    "missão": "Transformar dados em decisões e decisões em receita.",
-    "método": "Análise de funil · Experimentos · Automação · Otimização de conversão",
+    "focus": ["Revenue Growth", "Data-Driven Sales", "Python", "SQL"],
+    "mission": "Turn data into decisions and decisions into revenue.",
+    "approach": "Funnel analysis · Experimentation · Automation · Conversion optimization",
 }
 ```
 
-## 🛠️ Stack & Ferramentas
+## 🛠️ Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,github,vscode" />
@@ -37,7 +37,7 @@ perfil = {
   <img src="https://img.shields.io/badge/CRM-HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
 </p>
 
-## 🚀 Foco atual
+## 🚀 Current Focus
 
 <div align="center">
 
@@ -49,7 +49,7 @@ perfil = {
 
 ---
 
-## 📬 Contato
+## 📬 Contat Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-grecca/">
