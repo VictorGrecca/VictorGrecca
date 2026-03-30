@@ -15,7 +15,7 @@
 ## 🧠 About Me
 
 ```python
-perfil = {
+profile = {
     "background": "Sales & Account Management (US + LATAM)",
     "focus": ["Revenue Growth", "Data-Driven Sales", "Python", "SQL"],
     "mission": "Turn data into decisions and decisions into revenue.",
