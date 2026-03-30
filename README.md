@@ -26,7 +26,7 @@ profile = {
 ## 🛠️ Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,py,r,gcp" />
 </p>
 
 <p align="center">
