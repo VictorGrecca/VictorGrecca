@@ -46,7 +46,7 @@ profile = {
 
 | 📊 Revenue Analytics | 🚀 Growth | 🐍 Data & Automation |
 |:---:|:---:|:---:|
-| Pipeline, CAC, LTV e conversão | Testes, aquisição e otimização | Python, SQL, ETL e automações |
+| Pipeline, CAC, LTV and conversion analysis | Experimentation, acquisition and funnel optimization | Python, SQL, ETL and automation |
 
 </div>
 
