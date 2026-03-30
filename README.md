@@ -52,7 +52,7 @@ profile = {
 
 ---
 
-## 📬 Contat Me
+## 📬 Contact Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-grecca/">
